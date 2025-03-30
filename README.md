@@ -2,7 +2,7 @@
 
 This repository showcases my progress and learning in Microsoft Excel, organized into two folders: `basic` and `advanced`.
 
-## Basic Excel Projects
+## Basic Excel
 
 The `basic` folder contains a collection of Excel files demonstrating fundamental to intermediate Excel skills.
 
@@ -15,7 +15,7 @@ The `basic` folder contains a collection of Excel files demonstrating fundamenta
 * **Formatting & Collaboration:** Application of formatting techniques and collaborative features.
 * **Project Salary Dashboard:** A comprehensive project demonstrating the creation of an interactive salary dashboard.
 
-## Advanced Excel Projects
+## Advanced Excel
 
 The `advanced` folder delves into more sophisticated Excel functionalities and data analysis techniques.
 
